@@ -15,7 +15,7 @@
     <name>allinone-showpage-server</name>
 
     <properties>
-        <spring.version>4.3.12.RELEASE</spring.version>
+        <spring.version>6.0.0</spring.version>
     </properties>
 
     <dependencies>
